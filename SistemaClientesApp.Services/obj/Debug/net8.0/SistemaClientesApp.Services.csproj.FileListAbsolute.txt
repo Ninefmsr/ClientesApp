@@ -1,0 +1,144 @@
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\appsettings.Development.json
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\appsettings.json
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.exe
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.deps.json
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.runtimeconfig.json
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.pdb
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.csproj.AssemblyReference.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.AssemblyInfoInputs.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.AssemblyInfo.cs
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.csproj.CoreCompileInputs.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.SistemaClientesApp.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.build.SistemaClientesApp.Services.props
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SistemaClientesApp.Services.props
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SistemaClientesApp.Services.props
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\scopedcss\bundle\SistemaClientesApp.Services.styles.css
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.csproj.CopyComplete
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\refint\SistemaClientesApp.Services.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.pdb
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.genruntimeconfig.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\obj\Debug\net8.0\ref\SistemaClientesApp.Services.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Azure.Core.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Azure.Identity.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\System.Memory.Data.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\ClientesApp.Data.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\SistemaClientesApp.Services\bin\Debug\net8.0\ClientesApp.Data.pdb
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\appsettings.Development.json
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\appsettings.json
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.exe
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.deps.json
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.runtimeconfig.json
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\SistemaClientesApp.Services.pdb
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Azure.Core.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Azure.Identity.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\System.Memory.Data.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\ClientesApp.Data.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\bin\Debug\net8.0\ClientesApp.Data.pdb
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.csproj.AssemblyReference.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.AssemblyInfoInputs.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.AssemblyInfo.cs
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.csproj.CoreCompileInputs.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets.build.json
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets.development.json
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.SistemaClientesApp.Services.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.build.SistemaClientesApp.Services.props
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SistemaClientesApp.Services.props
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SistemaClientesApp.Services.props
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\scopedcss\bundle\SistemaClientesApp.Services.styles.css
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaC.93C2A897.Up2Date
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\refint\SistemaClientesApp.Services.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.pdb
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\SistemaClientesApp.Services.genruntimeconfig.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\SistemaClientesApp.Services\obj\Debug\net8.0\ref\SistemaClientesApp.Services.dll

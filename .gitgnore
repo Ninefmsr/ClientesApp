@@ -1,0 +1,40 @@
+# Arquivos de compilação de Visual Studio
+bin/
+obj/
+
+# Arquivos de publicação
+Publish/
+
+# Arquivos de dependência
+node_modules/
+packages/
+
+# Arquivos temporários
+[Tt]emp/
+[Oo]bj/
+.vs/
+
+# Logs e arquivos de depuração
+*.log
+*.vspscc
+*.vssscc
+*.buildlog
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# Arquivos de configuração do NuGet Package Manager
+packages/
+
+# Arquivos de configuração do R# ReSharper
+_ReSharper*/
+
+# Arquivos de compilação de estilo Web
+*.Compiled
+
+# Arquivos de configuração do TypeScript
+*.tsconfig.tsbuildinfo
+*.sln.ide

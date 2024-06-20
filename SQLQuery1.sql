@@ -1,0 +1,7 @@
+﻿INSERT INTO [dbo].[CLIENTE] ([IDCLIENTE], [NOME], [CPF], [TELEFONE], [EMAIL], [DATA DE NASCIMENTO])
+VALUES (NEWID(), 'Carolina Munis', '52369874585', '988512369', 'carolina.munis@gmail.com', '1986-01-24');
+
+INSERT INTO [dbo].[CLIENTE] ([IDCLIENTE], [NOME], [CPF], [TELEFONE], [EMAIL], [DATA DE NASCIMENTO])
+VALUES (NEWID(), 'Monica Paiva', '85214789652', '968521478', 'monica.paiva@gmail.com', '1984-03-12');
+
+SELECT * FROM CLIENTE;

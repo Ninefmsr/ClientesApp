@@ -1,0 +1,28 @@
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\bin\Debug\net8.0\ClientesApp.Data.deps.json
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\bin\Debug\net8.0\ClientesApp.Data.runtimeconfig.json
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\bin\Debug\net8.0\ClientesApp.Data.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\bin\Debug\net8.0\ClientesApp.Data.pdb
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.csproj.AssemblyReference.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.AssemblyInfoInputs.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.AssemblyInfo.cs
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.csproj.CoreCompileInputs.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\refint\ClientesApp.Data.dll
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.pdb
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.genruntimeconfig.cache
+C:\CSharp SQS N 2024\SistemaClientesApp\ClientesApp.Data\obj\Debug\net8.0\ref\ClientesApp.Data.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\bin\Debug\net8.0\ClientesApp.Data.deps.json
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\bin\Debug\net8.0\ClientesApp.Data.runtimeconfig.json
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\bin\Debug\net8.0\ClientesApp.Data.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\bin\Debug\net8.0\ClientesApp.Data.pdb
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.csproj.AssemblyReference.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.AssemblyInfoInputs.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.AssemblyInfo.cs
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.csproj.CoreCompileInputs.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\refint\ClientesApp.Data.dll
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.pdb
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ClientesApp.Data.genruntimeconfig.cache
+C:\SistemaClientesApp\SistemaClientesApp-main\ClientesApp.Data\obj\Debug\net8.0\ref\ClientesApp.Data.dll
